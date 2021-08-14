@@ -1,2 +1,2 @@
 # coursera-test
-Module-2-Assignment
+All Assignment Answer of Coursera Course - HTML, CSS and JavaScript for Web Developers - by Coursera
